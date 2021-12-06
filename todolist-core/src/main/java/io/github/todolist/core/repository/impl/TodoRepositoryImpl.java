@@ -85,7 +85,6 @@ public class TodoRepositoryImpl implements TodoRepository {
         return todo;
     }
 
-    /**
      * {@inheritDoc}
      */
     public void remove(final Todo todo) {
