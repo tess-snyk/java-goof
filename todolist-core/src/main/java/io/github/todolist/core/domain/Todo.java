@@ -174,6 +174,6 @@ public class Todo implements Serializable {
         sb.append(", priority=").append(priority);
         sb.append(", dueDate=").append(dueDate);
         sb.append('}');
-        return sb.toString();
+        
     }
 }
